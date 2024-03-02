@@ -4,14 +4,17 @@
 판교에 있는 게임 회사에 근무하고 있습니다.<br />
 NPM 패키지 제작하는 것을 좋아합니다.
 
+### Blog
+[www.shinyongjun.com](https://www.shinyongjun.com)
+
+### Github Status
+[![Github Status](https://streak-stats.demolab.com?user=flamecommit&theme=dark)](https://git.io/streak-stats)
+
 ### Stacks
 [![Stacks](https://skillicons.dev/icons?i=js,ts,html,css,react,next,vue,nuxt,redux,pinia,jquery,nginx,mongodb)](https://skillicons.dev)
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=vscode,figma,azure,obsidian,github,photoshop)](https://skillicons.dev)
-
-### Github Status
-[![Github Status](https://streak-stats.demolab.com?user=flamecommit&theme=dark)](https://git.io/streak-stats)
 
 
 ### My Packages
