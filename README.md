@@ -14,7 +14,7 @@ NPM 패키지 제작하는 것을 좋아합니다.
 [![Stacks](https://skillicons.dev/icons?i=js,ts,html,css,react,next,vue,nuxt,redux,pinia,jquery,nginx,mongodb,vscode,figma,azure,obsidian,github,photoshop)](https://skillicons.dev)
 
 
-### My Packages
+### Libraries
 
 |Title|Downloads|Version|
 |-----|----|---|
