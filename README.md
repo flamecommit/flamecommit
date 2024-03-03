@@ -11,7 +11,7 @@ NPM 패키지 제작하는 것을 좋아합니다.
 [![Github Status](https://streak-stats.demolab.com?user=flamecommit&theme=dark)](https://git.io/streak-stats)
 
 ### Stacks & Tools
-[![Stacks](https://skillicons.dev/icons?i=js,ts,html,css,react,next,vue,nuxt,redux,pinia,jquery,nginx,mongodb,vscode,figma,azure,obsidian,github,photoshop)](https://skillicons.dev)
+[![Stacks](https://skillicons.dev/icons?i=js,ts,html,css,react,next,vue,nuxt,redux,pinia,jquery,nginx,mongodb,sass,vscode,figma,azure,obsidian,github,photoshop,npm,notion,window)](https://skillicons.dev)
 
 
 ### Libraries
