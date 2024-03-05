@@ -4,9 +4,6 @@
 판교 소재 종합 게임 회사에 근무하고 있습니다.<br />
 NPM 패키지 제작하는 것을 좋아합니다.
 
-### Blog
-[www.shinyongjun.com](https://www.shinyongjun.com)
-
 ### Github Status
 [![Github Status](https://streak-stats.demolab.com?user=flamecommit&theme=dark)](https://git.io/streak-stats)
 
