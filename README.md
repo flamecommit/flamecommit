@@ -7,7 +7,7 @@
 [![Github Status](https://streak-stats.demolab.com?user=flamecommit&theme=dark)](https://git.io/streak-stats) -->
 
 ### Stacks & Tools
-[![Stacks](https://skillicons.dev/icons?i=js,ts,html,css,git,nodejs,react,next,vue,nuxt,redux,styledcomponents,pinia,jquery,nginx,mongodb,sass,vscode,figma,azure,obsidian,github,photoshop,npm,notion,md,windows,linux)](https://skillicons.dev)
+[![Stacks](https://skillicons.dev/icons?i=ts,react,next,vscode,figma,obsidian,npm)](https://skillicons.dev)
 
 
 ### Libraries
