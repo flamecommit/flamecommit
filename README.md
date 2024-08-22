@@ -1,8 +1,5 @@
-### 🔥안녕하세요.
-
-웹 프론트엔드 개발자 신용준입니다.
-
-홈페이지 - www.shinyongjun.com
+Website: www.shinyongjun.com
+NPM: www.npmjs.com/~shinyongjun
 
 <!-- ### Github Status
 [![Github Status](https://streak-stats.demolab.com?user=flamecommit&theme=dark)](https://git.io/streak-stats) -->
