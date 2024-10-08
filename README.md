@@ -2,9 +2,9 @@ Website: www.shinyongjun.com
 
 NPM: www.npmjs.com/~shinyongjun
 
-### 인류&세계사 연표 (작업중)
+### 동아시아 역사 타임라인
 
-www.shinyongjun.com/world-history
+www.shinyongjun.com/history/east-asia
 
 ### Libraries
 
