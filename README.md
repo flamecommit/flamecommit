@@ -18,8 +18,8 @@ www.npmjs.com/~shinyongjun
 
 ### 사이드 프로젝트
 
-#### 동아시아 역사 타임라인
-www.shinyongjun.com/history/east-asia
+#### 한반도 근현대사 타임라인
+www.shinyongjun.com/history/korea-modern
 
-#### 한반도 역사 타임라인
-www.shinyongjun.com/history/korea
+#### The Spirograph
+www.shinyongjun.com/canvas/pendulum
