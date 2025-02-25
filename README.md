@@ -22,4 +22,4 @@ www.npmjs.com/~shinyongjun
 www.shinyongjun.com/history/korea-modern
 
 #### The Spirograph
-www.shinyongjun.com/canvas/pendulum
+www.shinyongjun.com/canvas/spirograph
