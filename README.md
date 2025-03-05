@@ -1,11 +1,3 @@
-### 홈페이지
-
-www.shinyongjun.com
-
-### NPM
-
-www.npmjs.com/~shinyongjun
-
 ### 제작 라이브러리
 
 |Title|Downloads|Version|Demo|
