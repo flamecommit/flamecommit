@@ -13,5 +13,8 @@
 #### 한반도 근현대사 타임라인
 www.shinyongjun.com/history/korea-modern
 
-#### The Spirograph
-www.shinyongjun.com/canvas/spirograph
+#### Pendulum Simulator
+www.shinyongjun.com/canvas/pendulum
+
+#### Journey Log
+www.shinyongjun.com/journey-log
