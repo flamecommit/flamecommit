@@ -13,8 +13,17 @@
 #### 한반도 근현대사 타임라인
 www.shinyongjun.com/history/korea-modern
 
+![image](https://github.com/user-attachments/assets/91ad5ab4-e6f3-4f67-be26-bf8103ad0fac)
+
+
 #### Pendulum Simulator
 www.shinyongjun.com/canvas/pendulum
 
+![image](https://github.com/user-attachments/assets/7fb2d951-1d16-4064-b127-e0bc829a65cb)
+
+
 #### Journey Log
 www.shinyongjun.com/journey-log
+
+![image](https://github.com/user-attachments/assets/6af6bff6-af71-4d6e-81a1-9b8cbea4a31a)
+
